@@ -30,7 +30,6 @@ jupyter-core==4.4.0
 lxml==4.3.3
 MarkupSafe==1.1.1
 mistune==0.8.4
-git+https://github.com/mpi4py/mpi4py@3eb7e36#egg=mpi4py
 mpmath==1.1.0
 nbconvert==5.4.1
 nbformat==4.4.0
